@@ -7,8 +7,9 @@ import HomeScreen from './src/screens/HomeScreen'
 export default function App() {
   return (
     <View style={styles.container}>
-      <HomeScreen/>
+      <HomeScreen/> 
     </View>
+    // HomeScreen -> Kullanıcının giriş yaptığı ana sayfa
   );
 }
 
