@@ -13,7 +13,7 @@ function Index() {
             <MainCategories/>
         </ScrollView>
         //HeaderMain -> Başlangıç ekranında bulunan adres ve ulaşma süresi yazan yer
-        // BannerCorousel -> Ana sayfadaki ile ilgili resimlerin gsterildiği yer
+        //BannerCorousel -> Ana sayfadaki ile ilgili resimlerin gsterildiği yer
         //MainCategories -> Ana sayfada çeşitli kategorilerin gösterildiği yer
     );
 }
